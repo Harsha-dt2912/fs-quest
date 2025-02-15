@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/images/favicon-enhanced.png" />
+  <link rel="stylesheet" href="html/css/login.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
+
+  <title>F S Quest - Login</title>
+</head>
+
+<body>
+  <div class="alert" id="emptyFieldsAlert" style="display: none">
+    Please fill in all fields!
+  </div>
+  <img src="../images/signupill.png" alt="" />
+
+  <form action="/login" method="post">
+    <div class="login">
+      <div class="welcome">
+        <h1 class="titletext">Welcome Back &#x1F917</h1>
+        <span>Please enter your details.</span>
+      </div>
+      <div class="inputs">
+        <span>Email<br /></span>
+        <input type="email" class="inputbox" placeholder="Enter your email" id="loginEmail" name="email"/><br />
+        <span>Password<br /></span>
+        <input type="text" class="inputbox" placeholder="••••••••" id="loginPassword" name="password"/>
+        <i class="fas fa-eye-slash" id="toggleLoginPassword" style="margin-left: -30px; cursor: pointer;"></i>
+      </div>
+      <div class="forgotpass">
+        <span>Forgot Password</span>
+      </div>
+      <p class="back"><a class="tag" href="../index.html">&#8592; Back</a></p>
+      <button>
+        sign in
+      </button>
+      <button>
+        <a href="/register">Sign up</a>
+      </button>
+    </div>
+  </form>
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+{
+    "audioLinks": {
+        "Stress Relief Sounds": "https://open.spotify.com/embed/playlist/37i9dQZF1DWXe9gFZP0gtP?utm_source=generator",
+        "Peaceful Guitar": "https://open.spotify.com/embed/playlist/37i9dQZF1DX0jgyAiPl8Af?utm_source=generator",
+        "Calm Nature Sounds": "https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO2pMckE?utm_source=generator"
+    },
+    "prodcast": [
+        "https://open.spotify.com/embed/episode/4feTGTT8jp9e18w90mBtXc?utm_source=generator",
+        "https://open.spotify.com/embed/show/5ZxgpIlnsT8kILxQItEQ5f?utm_source=generator",
+        "https://open.spotify.com/embed/episode/4ahVo34YZsDDtCgXX5KS5P?utm_source=generator",
+        "https://open.spotify.com/embed/episode/3ZvJ1jpxtjFIZ8sTghil7u?utm_source=generator",
+        "https://open.spotify.com/embed/episode/0vEWGG6S1wL6IbxJsxb3sF?utm_source=generator",
+        "https://open.spotify.com/embed/episode/0PLXymZ2KH89Ty2KGFpREP?utm_source=generator",
+        "https://open.spotify.com/embed/episode/3qZRmQtsUgHyOVNmZzxxPw?utm_source=generator",
+        "https://open.spotify.com/embed/episode/3rG0WSWKcQ4iEM4JkLQRGg?utm_source=generator",
+        "https://open.spotify.com/embed/episode/2UmljSQsLNonJRZ88b2zfx?utm_source=generator",
+        "https://open.spotify.com/embed/episode/24JEpPldCxgeqGprKO7kMI?utm_source=generator",
+        "https://open.spotify.com/embed/episode/5nWxL1XA1Jr3C3aJLem5ZK?utm_source=generator",
+        "https://open.spotify.com/embed/episode/06OxqMY33JiZ23Pxw8NmDs?utm_source=generator",
+        "https://open.spotify.com/embed/episode/19XfB2nyuc1Uh3BservSyf?utm_source=generator"
+    ],
+    "audiobooks": {
+        "Atomic Habits": {
+            "James Clear": {
+                "image": "https://m.media-amazon.com/images/I/41wuB-s8vRL._SL300_.jpg",
+                "link": "https://www.audible.in/pd/Atomic-Habits-Audiobook/B07J1PK5Q7?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "The Psychology of Money": {
+            "Morgan Housel": {
+                "image": "https://m.media-amazon.com/images/I/51jRBz6Ug3L._SL500_.jpg",
+                "link": "https://www.audible.in/pd/The-Psychology-of-Money-Audiobook/B08D9WJCBT?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "The Subtle Art of Not Giving a F*ck": {
+            "Mark Manson": {
+                "image": "https://m.media-amazon.com/images/I/51MT0MbpD7L._SL500_.jpg",
+                "link": "https://www.audible.in/pd/The-Subtle-Art-of-Not-Giving-a-F-ck-Audiobook/B079BC54JT?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Ikigai": {
+            "Héctor García and Francesc Miralles": {
+                "image": "https://m.media-amazon.com/images/I/511HccWipML._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Ikigai-Audiobook/B0759Y4LYM?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShar"
+            }
+        },
+        "Think Like A Monk": {
+            "Jay Shetty": {
+                "image": "https://m.media-amazon.com/images/I/51n4UO2a+VS._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Think-Like-A-Monk-Audiobook/B07YSQ8GT5?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Life's Amazing Secrets": {
+            "Gaur Gopal Das": {
+                "image": "https://m.media-amazon.com/images/I/514sscPA15L._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Lifes-Amazing-Secrets-Audiobook/B081S9NKRP?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+
+        "Rich Dad Poor Dad": {
+            "Robert T. Kiyosaki": {
+                "image": "https://m.media-amazon.com/images/I/51AHZGhzZEL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Rich-Dad-Poor-Dad-Audiobook/B079P9PGJB?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+
+        "Karma: A Yogi’s Guide": {
+            "Sadhguru and Leslie Howard": {
+                "image": "https://m.media-amazon.com/images/I/51nY2HMNVHL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Karma-A-Yogis-Guide-to-Crafting-Your-Own-Destiny-Audiobook/9391149588?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+
+        "How to Talk to Anyone": {
+            "Leil Lowndes": {
+                "image": "https://m.media-amazon.com/images/I/51hAGh15bTL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/How-to-Talk-to-Anyone-Audiobook/B079TLJV49?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Rework": {
+            "Jason Fried and David Heinemeier Hansson": {
+                "image": "https://m.media-amazon.com/images/I/41jq-ouUBkL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Rework-Audiobook/B079VF9TV6?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "The Monk Who Sold His Ferrari": {
+            "Robin Sharma": {
+                "image": "https://m.media-amazon.com/images/I/51bmAi4DCML._SL500_.jpg",
+                "link": "https://www.audible.in/pd/The-Monk-Who-Sold-His-Ferrari-Audiobook/B072MR2L6V?qid=1663432045&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=2d02bc98-4366-4f94-99d9-5e898cda0766&pf_rd_r=PBF08GY7EPN53D1K48CC"
+            }
+        },
+        "Good Vibes, Good Life": {
+            "Vex King": {
+                "image": "https://m.media-amazon.com/images/I/41iYeNKefoL._SL500_.jpg",
+                "link": "   https://www.audible.in/pd/Good-Vibes-Good-Life-Audiobook/1788174992?qid=1663432525&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=2d02bc98-4366-4f94-99d9-5e898cda0766&pf_rd_r=PFHFS2XZPZE9CNS18WVB"
+            }
+        }
+    }
+}

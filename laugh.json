@@ -1,0 +1,29 @@
+{
+    "memes":[
+        "images/meme1.jpg",
+        "images/meme2.jpg",
+        "images/meme3.jpg",
+        "images/meme4.jpg",
+        "images/meme5.jpg",
+        "images/meme6.jpg"
+    ],
+
+    "youtube":[
+        "https://www.youtube.com/embed/Tqsz6fjvhZM",
+        "https://www.youtube.com/embed/Y2Oj9gllHno?start=16",
+        "https://www.youtube.com/embed/XDlyS4N__3o?start=22",
+        "https://www.youtube.com/embed/z12bz7adLKI",
+        "https://www.youtube.com/embed/pjSxOnCkHIA?si=0KNI6JYCbbjujeFY",
+        "https://www.youtube.com/embed/J38ZBIvLank",
+        "https://www.youtube.com/embed/dtaJzUbQS7E",
+        "https://www.youtube.com/embed/8PtsKRBgLrA",
+        "https://www.youtube.com/embed/cHLM9L_5gj0",
+        "https://www.youtube.com/embed/injU8xUHoyU",
+        "https://www.youtube.com/embed/KKnhgkmV7k8",
+        "https://www.youtube.com/embed/_9x9zagDbks",
+        "https://www.youtube.com/embed/L9pA6sZZjeY",
+        "https://www.youtube.com/embed/MLOp3iQFlXY",
+        "https://www.youtube.com/embed/AhacYw9dkyE",
+        "https://www.youtube.com/embed/qkxuFKqJXWY"
+    ]
+}

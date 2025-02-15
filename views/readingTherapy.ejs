@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FS Quest - Reading Therapy</title>
+  <link rel="stylesheet" href="../css/readingTherapy.css">
+  <link rel="icon" href="../images/favicon-enhanced.png">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" text="text/CSS"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script&family=Itim&family=Oleo+Script+Swash+Caps&family=Permanent+Marker&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <!-- Navbar-->
+  <header>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script&family=Itim&family=Oleo+Script+Swash+Caps&family=Permanent+Marker&display=swap"
+      rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    </head>
+
+    <body onload="myfunction()" id="main">
+      <div id="load">
+        <div style="background-color: white; height: 25vh; width: 100%; position: relative; top: -70px;"></div>
+      </div>
+      <div id="back-top-div" class="back-top-wrap">
+        <i class="fas fa-arrow-up"></i>
+      </div>
+      <!-- Navbar-->
+      <header>
+
+        <nav class="navbar">
+          <div class=""><a href="https://FS Quest-stress-free.netlify.app"><img src="logo2.jpg" class="icon" alt="" style="border-radius: 50%;"></a>
+          </div>
+
+          <div class="nav-links" id="navLinks">
+
+            <ul>
+              <li><a href="/index.html">HOME</a></li>
+              <li><a href="#articles" class=".smooth-scroll">ARTICLES</a></li>
+              <li><a href="#quotes" class=".smooth-scroll">QUOTES </a></li>
+              <li><a href="#summary" class=".smooth-scroll">SUMMARIES</a></li>
+              <li><a href="#reading" class=".smooth-scroll">BOOKS </a></li>
+
+            </ul>
+          </div>
+          <div class="hamburger" id="ham">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em"
+              width="1em" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M904 160H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0 624H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0-312H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8z">
+              </path>
+            </svg>
+          </div>
+        </nav>
+        <div class="menu" id="menu">
+          <ul class="menu-link">
+            <li><a href="/index.html">HOME</a></li>
+            <li><a href="#articles">ARTICLES</a></li>
+            <li><a href="#quotes">QUOTES </a></li>
+            <li><a href="#summary">SUMMARIES</a></li>
+            <li><a href="#reading">BOOKS </a></li>
+          </ul>
+        </div>
+        <div class="contain">
+          <img class="image" src="https://images2.alphacoders.com/261/thumb-1920-26102.jpg"
+            style="width: 100%; height: 40%;">
+          <div class="center">
+            <h1 id="title"><span class="heading-starting">Welcome to Our </span><span class="heading-title">Reading
+                Therapy
+              </span><img class="reading1" src="../images/reading1.png" alt=""></h1>
+            <h3 id="subtitle">Read Articles, Motivational Quotes and listen to summaries of famous books <br> to gain
+              some
+              happiness, knowledge and also lighten your stress side by side.</h3>
+          </div>
+      </header>
+      <div class="black-background">
+        <section id="Benefits" style="height: 45rem">
+          <h1 style="font-size:2.3rem">Reading Therapy</h1>
+          <div class="right-side">
+            <h3 id="subtitle" style="height:auto; width:450px; padding: 25px 25px; margin-top: 5rem; ">Bibliotherapy
+              (also referred to as book therapy, reading therapy, poetry therapy or therapeutic storytelling) is a
+              creative arts therapy that involves storytelling or the reading of specific texts. It uses an individual's
+              relationship to the content of books and poetry and other written words as therapy. Bibliotherapy
+              partially overlaps with, and is often combined with, writing therapy.</h3>
+
+          </div>
+          <div class="left-side">
+            <h2 class="readingbenefits">Benefits of Reading</h2>
+            <div class="vl"></div>
+            <div class="card" style="top: -20rem; margin-left: 13rem; width: 450px; height: 300px;">
+              <h3 class="subtitle" style="color: white;">
+                <p class="benefit-points">> Reduces stress</p>
+                <p class="benefit-points">> Increases your ability to empathize</p>
+                <p class="benefit-points">> Helps prevent age-related cognitive decline</p>
+                <p class="benefit-points">> Builds your vocabulary</p>
+                <p class="benefit-points">> Prepares you for a good night’s rest</p>
+                <p class="benefit-points">> Helps alleviate depression symptoms</p>
+              </h3>
+            </div>
+          </div>
+        </section>
+
+        <section id="articles">
+          <h1 style="font-size:2.3rem">Articles</h1>
+          <h2>Inspirational Stories</h2>
+          <div class="collection">
+            <% data.articals.forEach(article=> { %>
+              <div class="playlist">
+                <iframe src="<%= article %>" frameborder="0" width="100%" height="380px"></iframe>
+              </div>
+              <% }) %>
+          </div>
+        </section>
+        <br>
+        <hr>
+
+        <section id="quotes">
+          <h1 style="font-size:2.3rem">Motivational Quotes</h1>
+          <h2>Inspirational Quotes</h2>
+          <div class="collection">
+            <% for (let quoteKey in data.motiv_quote) { %>
+              <div class="inspiration">
+                <div class="inspiration-card">
+                  <div class="inspcardcover">
+                    <img src="<%= data.motiv_quote[quoteKey].img %>" alt="">
+                  </div>
+                  <div class="insp-content">
+                    <p>
+                      <%= data.motiv_quote[quoteKey].desc %>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <% } %>
+          </div>
+        </section>
+        <hr>
+
+        <section id="summary">
+          <h1 style="font-size:2.3rem">Summary of Books</h1>
+          <h2>In Articles</h2>
+          <div class="collection">
+            <div class="books">
+              <% for (let quoteKey in data.motiv_quote) { %>
+                <div class="playlist">
+                  <iframe class="b" src="<%= data.motiv_quote[quoteKey].desc %>" frameborder="0" width="100%"
+                    height="380px"></iframe>
+                </div>
+                <% } %>
+            </div>
+          </div>
+
+          <h2>In Videos</h2>
+          <div class="videos">
+            <div class="videos1">
+              <% data.youtube.forEach(video=> { %>
+                <div class="v">
+                  <iframe width="100%" height="280" src="<%= video %>" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                </div>
+                <% }) %>
+            </div>
+          </div>
+        </section>
+        <br>
+        <hr>
+
+        <section id="reading">
+          <h1 style="font-size:2.3rem">Books</h1>
+          <div class="container">
+            <% for (let bookTitle in data.books) { %>
+              <div class="card">
+                <div class="content">
+                  <div class="book-container" target="_blank" rel="noreferrer noopener">
+                    <div class="book">
+                      <img alt="Atomic Habits"
+                        src="<%= data.books[bookTitle][Object.keys(data.books[bookTitle])[0]].image %>"
+                        alt="<%= bookTitle %>" />
+                    </div>
+                  </div>
+                  <div class="contentBx">
+                    <h3>
+                      <%= bookTitle %><br><span>Read the famous book by <%= Object.keys(data.books[bookTitle])[0] %>
+                            .</span>
+                    </h3>
+                  </div>
+                </div>
+                <ul class="sci">
+                  <li>
+                    <a href="<%= data.books[bookTitle][Object.keys(data.books[bookTitle])[0]].link %>" target="_blank"
+                      class="btn btn-border">Read</a>
+                  </li>
+                </ul>
+              </div>
+              <% }%>
+          </div>
+        </section>
+
+        <!-- footer start -->
+        <footer>
+          <div class="footer-container">
+            <!--logo and info column-->
+            <div class="col">
+              <!--logo insert-->
+              <img src="logo2.jpg" alt="logo" class="footlogo"  style="border-radius: 50%;"/>
+              <div class="footercontent">
+                <h2 class="footerheading">F S Quest</h2>
+                <p class="footerpara">go stressfree</p>
+              </div>
+            </div>
+
+            <!--ADDRESS COLUMN-->
+
+            <div class="footer-side-col">
+              <div class="col">
+                <h3>
+                  ADDRESS
+                  <div class="underline"><span></span></div>
+                </h3>
+                <p>Tumkuru,Karnataka</p>
+                <p class="email-id"><a href="mailto:chandrahas.1si22cs047@gmail.com">hackthon@gmail.com</a></p>
+              </div>
+              <!--HOME COLUMN-->
+              <div class="col">
+                <h3>HOME</h3>
+                <ul>
+
+                  <li><a href="#about">About Us</a></li>
+                  <li>
+                    <a href="https://github.com/Susmita-Dey/FS Quest/blob/main/CODE_OF_CONDUCT.md">Code Of Conduct</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/Susmita-Dey/FS Quest">Contribute</a>
+                  </li>
+                  <li>
+                    <a href="https://www.buymeacoffee.com/susmitadey">Donate</a>
+                  </li>
+                </ul>
+              </div>
+              <!--OUR SERVICES COLUMN-->
+              <div class="col">
+                <h3>
+                  SERVICES
+                  <div class="underline"><span></span></div>
+                </h3>
+                <ul>
+                  <li>
+                    <a href="/audio">Audio Therapy</a>
+                  </li>
+                  <li>
+                    <a href="/readingTherapy">Yoga Therapy</a>
+                  </li>
+                  <li>
+                    <a href="/yogaTherapy">Reading Therapy</a>
+                  </li>
+                  <li>
+                    <a href="/laughTherapy">Talking Therapy</a>
+                  </li>
+                  <li>
+                    <a href="/talkingTherapy">Consult a Doctor</a>
+                  </li>
+                  <li>
+                    <a href="/childTherapy">Child Therapy</a>
+                  </li>
+                  <li>
+                    <a href="/spirituality">Spiritual Therapy</a>
+                  </li>
+                </ul>
+              </div>
+              <!--CONTACTS COLUMN-->
+              <div class="col">
+                <h3>
+                  CONTACTS
+                  <div class="underline"><span></span></div>
+                </h3>
+                <div class="social-menu">
+                  <ul>
+                    <a href="https://twitter.com/FS Quest665" target="_blank">
+                      <li id="social-twitter"><i class="fab fa-2x fa-twitter"></i></li>
+                    </a>
+                    <a href="https://github.com/Susmita-Dey/FS Quest" target="_blank">
+                      <li id="social-github"><i class="fab fa-2x fa-github"></i></li>
+                    </a>
+                    <a href="https://www.linkedin.com/in/FS Quest-web-820705238" target="_blank">
+                      <li id="social-linkedin"><i class="fab fa-2x fa-linkedin-in"></i></li>
+                    </a>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+      </footer>
+      <script type="text/javascript" src="../js/scrollsmooth.js"></script>
+
+      <script>
+        const ham = document.getElementById("ham");
+        const menu = document.getElementById("menu");
+        const close = document.querySelectorAll('.close');
+        const closeMenu = () => {
+          if (menu.classList.contains("open")) {
+            menu.classList.remove("open");
+
+            console.log("open");
+          }
+          ham.innerHTML = '<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M904 160H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0 624H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0-312H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8z"></path></svg>'
+        }
+
+        const toggleMenu = () => {
+          if (menu.classList.contains("open")) {
+            menu.classList.remove("open");
+            ham.innerHTML = '<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M904 160H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0 624H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0-312H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8z"></path></svg>'
+            console.log("open");
+          } else {
+            menu.classList.add("open");
+            ham.innerHTML = '<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9A7.95 7.95 0 0 0 203 838h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"></path></svg>'
+            console.log("close");
+          }
+
+        };
+        ham.addEventListener("click", toggleMenu);
+        close.forEach(ele => {
+          ele.addEventListener("click", closeMenu);
+        }
+        )
+      </script>
+      <script>
+        var preloader = document.getElementById('load');
+        var scroll = document.getElementById('main');
+        function myfunction() {
+          preloader.style.display = 'none';
+          scroll.style.overflow = 'scroll';
+        }
+        const backTopElement = document.getElementById("back-top-div");
+        const minScolledAmountToBackTop = 800;
+
+        window.addEventListener("scroll", () => {
+          if (window.scrollY < minScolledAmountToBackTop) {
+            backTopElement.classList.add("hidden");
+          } else {
+            backTopElement.classList.remove("hidden");
+          }
+        });
+
+        const backTop = () => {
+          window.scrollTo(0, 0);
+        };
+
+        backTopElement.addEventListener("click", backTop);
+        ham.addEventListener("click", toggleMenu);
+      </script>
+    </body>
+
+</html>

@@ -1,0 +1,22 @@
+{
+    "youtube":[
+        "https://www.youtube.com/embed/_NTfTd4HCRo?si=qeEoiQqz7HKqiZ1T",
+        "https://www.youtube.com/embed/zs21cKJs87E",
+        "https://www.youtube.com/embed/1YBheuHma8I",
+        "https://www.youtube.com/embed/L49VXZwfup8",
+        "https://www.youtube.com/embed/gB12TV38QBo",
+        "https://www.youtube.com/embed/cmCtTFRLaks?si=E0cL60acdnPoVnwi"  
+    ],
+    
+    "images":[
+        "../images/slider-8.jpg",
+        "../images/slider-3.jpg",
+        "../images/slider-4.jpg",
+        "../images/slider-5.jpg",
+        "../images/slider-6.jpg",
+        "../images/slider-2.jpg",
+        "../images/slider-7.jpg",
+        "../images/slider-8.jpg",
+        "../images/slider-9.jpg"
+    ]
+}

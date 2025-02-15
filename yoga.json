@@ -1,0 +1,38 @@
+{
+    "asana": {
+        "Ardha Chakrasana": {
+            "desc": "Ardha Chakrasana, or the Standing Backward Bend Pose, stretches the front upper torso and tones the arms and shoulder muscles. Know thesteps of doing the posture, all its benefits, and contraindications by clicking below.",
+            "link": "https://www.artofliving.org/in-en/yoga/yoga-poses/standing-backward-bend",
+            "img": "../images/yoga1.webp"
+        },
+        "Virabhadrasana": {
+            "desc": "Virabhadrasana or Warrior Pose increases stamina, strengthens arms, and brings courage and grace. It is an excellent yoga pose for those in sedentary jobs. It is also very beneficial in the case of frozen shoulders. Know the steps of doing the posture, all its benefits, and contraindications by clicking below.",
+            "link": "https://www.artofliving.org/in-en/yoga/yoga-poses/warrior-pose-virbhadrasana",
+            "img": "../images/yoga2.webp"
+        },
+        "Paschim Namaskarasana": {
+            "desc": "This yoga pose opens the abdomen and stretches the upper back and shoulder joints. Know the steps of doing the posture, all its benefits, and contraindications by clicking below.",
+            "link": "https://www.artofliving.org/in-en/yoga/yoga-poses/reverse-prayer-pose",
+            "img": "../images/yoga4.webp"
+        },
+        "Ardha Matsyendrasana": {
+            "desc": "Ardha Matsyendrasana, or the Half Spinal Twist Pose, makes the spine more elastic and increases the oxygen supply to the lungs. Know the steps of doing the posture, all its benefits, and contraindications by clicking below.",
+            "link": "https://www.artofliving.org/in-en/yoga/yoga-poses/sitting-half-spinal-twist-ardha-matsyendrasana",
+            "img": "../images/yoga5.webp"
+        },
+        "Prasarita Padahastasana": {
+            "desc": "This yoga pose lengthens the spine, strengthens the legs and feet, and strengthens the abdomen. Know the steps of doing the posture, all its benefits, and contraindications by clicking below.",
+            "link": "https://www.artofliving.org/in-en/yoga/yoga-poses/standing-forward-bend",
+            "img": "../images/yoga3.webp"
+        }
+    },
+    
+    "youtube": [
+        "https://www.youtube.com/embed/s2NQhpFGIOg",
+        "https://www.youtube.com/embed/s2NQhpFGIOg",
+        "https://www.youtube.com/embed/s2NQhpFGIOg",
+        "https://www.youtube.com/embed/s2NQhpFGIOg",
+        "https://www.youtube.com/embed/s2NQhpFGIOg",
+        "https://www.youtube.com/embed/s2NQhpFGIOg"
+    ]
+}

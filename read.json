@@ -1,0 +1,131 @@
+{
+    "articals": [
+        "https://ahigherthought.com/the-best-way-to-refresh-mind-body-soul/",
+        "https://www.developgoodhabits.com/inspirational-stories/",
+        "https://www.whatsdannydoing.com/blog/short-inspirational-stories-with-a-moral",
+        "https://theartofliving.com/interesting-articles/"
+    ],
+
+    "motiv_quote": {
+        "quote1": {
+            "desc": "Life isn't about finding yourself. Life is about creating yourself.",
+            "img": "../images/motivation.png"
+        },
+        "quote2": {
+            "desc": "A mistake that makes you humble is better than an achievement that makes you arrogant.",
+            "img": "../images/inspiration.png"
+        },
+        "quote3": {
+            "desc": "Why do we only rest in peace why don't we live in peace too?",
+            "img": "../images/inspiration (1).png"
+        },
+        "quote4": {
+            "desc": "Our greatest glory is not in never falling, but in rising every time we fall. ",
+            "img": "../images/motivation (3).png"
+        },
+        "quote5": {
+            "desc": "It’s not the events of our lives that shape us, but our beliefs as to what those events mean.",
+            "img": "../images/motivation (1).png"
+        },
+        "quote6": {
+            "desc": "Breath is the power behind all things…. I breathe in and know that good things will happen.",
+            "img": "../images/woman (1).png"
+        },
+        "quote7": {
+            "desc": "You can't control the wind, but you can adjust your sails.",
+            "img": "../images/job-satisfaction.png"
+        },
+        "quote8": {
+            "desc": "There are times when we stop, we sit still. We listen and breezes from a whole other world begin towhisper.",
+            "img": "../images/passion.png"
+        }
+    },
+
+    "inarticles": [
+        "https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/",
+        "https://jamesclear.com/book-summaries/the-subtle-art-of-not-giving-a-fck",
+        "https://wizbuskout.com/think-like-a-monk-summary/#:~:text=Think%20Like%20A%20Monk%20Summary%20%28PDF%29%201%20Becoming,And%20Reap%20The%20Rewards.%20...%20More%20items...%20",
+        "https://www.sloww.co/ikigai-book/"
+    ],
+    "youtube": [
+        "https://www.youtube.com/embed/PZ7lDrwYdZc",
+        "https://www.youtube.com/embed/Zxj3P0enJNQ",
+        "https://www.youtube.com/embed/8OAH3hqNsN4",
+        "https://www.youtube.com/embed/9g1BfGpoK3E"
+    ],
+    
+    "books": {
+        "Atomic Habits": {
+            "James Clear": {
+                "image": "https://m.media-amazon.com/images/I/41wuB-s8vRL._SL300_.jpg",
+                "link": "https://www.audible.in/pd/Atomic-Habits-Audiobook/B07J1PK5Q7?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "The Psychology of Money": {
+            "Morgan Housel": {
+                "image": "https://m.media-amazon.com/images/I/51jRBz6Ug3L._SL500_.jpg",
+                "link": "https://www.audible.in/pd/The-Psychology-of-Money-Audiobook/B08D9WJCBT?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "The Subtle Art of Not Giving a F*ck": {
+            "Mark Manson": {
+                "image": "https://m.media-amazon.com/images/I/51MT0MbpD7L._SL500_.jpg",
+                "link": "https://www.audible.in/pd/The-Subtle-Art-of-Not-Giving-a-F-ck-Audiobook/B079BC54JT?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Ikigai": {
+            "Héctor García and Francesc Miralles": {
+                "image": "https://m.media-amazon.com/images/I/511HccWipML._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Ikigai-Audiobook/B0759Y4LYM?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShar"
+            }
+        },
+        "Think Like A Monk": {
+            "Jay Shetty": {
+                "image": "https://m.media-amazon.com/images/I/51n4UO2a+VS._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Think-Like-A-Monk-Audiobook/B07YSQ8GT5?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Life's Amazing Secrets": {
+            "Gaur Gopal Das": {
+                "image": "https://m.media-amazon.com/images/I/514sscPA15L._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Lifes-Amazing-Secrets-Audiobook/B081S9NKRP?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Rich Dad Poor Dad": {
+            "Robert T. Kiyosaki": {
+                "image": "https://m.media-amazon.com/images/I/51AHZGhzZEL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Rich-Dad-Poor-Dad-Audiobook/B079P9PGJB?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Karma: A Yogi’s Guide": {
+            "Sadhguru and Leslie Howard": {
+                "image": "https://m.media-amazon.com/images/I/51nY2HMNVHL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Karma-A-Yogis-Guide-to-Crafting-Your-Own-Destiny-Audiobook/9391149588?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "How to Talk to Anyone": {
+            "Leil Lowndes": {
+                "image": "https://m.media-amazon.com/images/I/51hAGh15bTL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/How-to-Talk-to-Anyone-Audiobook/B079TLJV49?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "Rework": {
+            "Jason Fried and David Heinemeier Hansson": {
+                "image": "https://m.media-amazon.com/images/I/41jq-ouUBkL._SL500_.jpg",
+                "link": "https://www.audible.in/pd/Rework-Audiobook/B079VF9TV6?action_code=ASSGB149080119000H&share_location=pdp&shareTest=TestShare"
+            }
+        },
+        "The Monk Who Sold His Ferrari": {
+            "Robin Sharma": {
+                "image": "https://m.media-amazon.com/images/I/51bmAi4DCML._SL500_.jpg",
+                "link": "https://www.audible.in/pd/The-Monk-Who-Sold-His-Ferrari-Audiobook/B072MR2L6V?qid=1663432045&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=2d02bc98-4366-4f94-99d9-5e898cda0766&pf_rd_r=PBF08GY7EPN53D1K48CC"
+            }
+        },
+        "Good Vibes, Good Life": {
+            "Vex King": {
+                "image": "https://m.media-amazon.com/images/I/41iYeNKefoL._SL500_.jpg",
+                "link": "   https://www.audible.in/pd/Good-Vibes-Good-Life-Audiobook/1788174992?qid=1663432525&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=2d02bc98-4366-4f94-99d9-5e898cda0766&pf_rd_r=PFHFS2XZPZE9CNS18WVB"
+            }
+        }
+    }
+}

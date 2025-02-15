@@ -1,0 +1,38 @@
+{
+    "images":{
+        "Cricket":{
+            "desc":"Cricket is a bat-and-ball game played between two teams of eleven players each. It enhances physical fitness, promotes teamwork, and develops strategic thinking. Learn more about the rules, techniques, and benefits of playing cricket by clicking below.",
+            "img":"/images/cri.jpg",
+            "link":"https://www.bcci.tv/"
+        },
+        "Soccer":{
+            "desc":"Soccer, also known as football in many countries, is a dynamic team sport that enhances physical fitness, coordination, and teamwork. It promotes cardiovascular health and builds strength. Discover more about the rules, skills, and benefits of playing soccer by clicking below.",
+            "img":"/images/soccer.jpg",
+            "link":"https://www.fifa.com/en"
+        },
+        "Hockey":{
+            "desc":"Hockey is an exhilarating team sport that combines speed, skill, and strategy. It improves cardiovascular fitness, enhances coordination, and fosters teamwork. Learn about the various types of hockey, skills required, and the benefits of playing by clicking below.",
+            "img":"/images/hockey.jpg",
+            "link":"https://www.fih.hockey/"
+        },
+        "Kabaddi":{
+            "desc":"Kabaddi is a traditional Indian team sport that combines physical strength, agility, and strategy. It promotes fitness, enhances teamwork, and boosts mental toughness. Discover the rules, skills, and benefits of playing Kabaddi by clicking the link below.",
+            "img":"/images/kabbdi.jpg",
+            "link":"https://worldkabaddi.org/"
+        },
+        "Kho Kho":{
+            "desc":"Kho Kho is a traditional Indian tag sport that emphasizes speed, agility, and strategic thinking. It enhances teamwork and endurance while promoting physical fitness. Learn more about the rules, techniques, and benefits of playing Kho Kho by clicking the link below.",
+            "img":"/images/kho.jpg",
+            "link":"https://khokhofederation.in/"
+        }
+    },
+
+    "vedios":[
+        "https://www.youtube.com/embed/7GyBBtE3Az4?si=SOC2aX3TRM9ow0R_",
+        "https://www.youtube.com/embed/Jh2Ofwqftno?si=r9RXqz9Jj2RYdLWu",
+        "https://www.youtube.com/embed/ewrf_rCHUdA?si=X-MQGCWndfGaHD6Q",
+        "https://www.youtube.com/embed/ejOjnDwFHiA?si=sY7Hz4uJMbwvd8BM",
+        "https://www.youtube.com/embed/l9sw-ctTrg8?si=YP5MBHQ-h1Jb1h7l",
+        "https://www.youtube.com/embed/FqZArr8E56E?si=qpGZSzr-hACK-0m-"
+    ]
+}

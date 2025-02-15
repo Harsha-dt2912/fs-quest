@@ -1,0 +1,41 @@
+{
+    "about": {
+        "Depression": {
+            "description":"Depression is a mood disorder that causes persistent feelings of sadness, emptiness, and loss of joy.It is different from the mood fluctuations.",
+          "link": "https://www.medicalnewstoday.com/articles/8933#definition"
+        },
+        "Anxiety": {
+            "description":" Anxiety is your body’s natural response to stress. It’s a feeling of fear or apprehension about what’s going to happen and how will it happen.",
+          "link": "https://www.health.harvard.edu/blog/anxiety-what-it-is-what-to-do-2018060113955"
+        },
+        "Stress": {
+            "description":"Stress is a feeling of emotional or physical tension. It can come from any event or thought that makes you feel frustrated or angry.",
+          "link": "https://www.medicalnewstoday.com/articles/145855"
+        }
+    },
+    "blogs": {
+        "JUNE 23, 2022 MAHEVASH SHAIKH": {
+            "img": "../images/blog-1.jpg",
+            "desc":"Has depression made you feel worthless? If so, you are not alone. You may even believe that you areworthless due to depression. Read on to find out how to fight this.","link": "https://www.healthyplace.com/blogs/copingwithdepression/2022/6/does-depression-make-you-feel-worthless-you-are-not-alone",
+            "link_desc": "Does Depression Make You Feel Worthless? You Are Not Alone"
+        },
+        "JUNE 8, 2022 TJ DESALVO": {
+            "img": "../images/blog-2.jpg",
+            "desc":"I've never been good at talking about my mental health with others, even those who I've known for years. In the past, I didn't have enough self-knowledge to be able to talk about it with anyone in an adequate way.","link": "https://www.healthyplace.com/blogs/anxiety-schmanxiety/2022/6/talking-to-others-about-my-mental-health",
+            "link_desc": "Talking to Others About My Mental Health.Why Mental Health Is Hard to Talk About"
+        },
+        "January 25, 2021 KELLY BILODEAU,": {
+            "img": "../images/blog-3.jpg",
+            "desc":"The last few months of any year, with deadlines and holidays, often create a harried pace. The beginning of a new year can give you a chance to exhale. But even if you experience a few serene days or weeks, tight shoulders and tension are never far off.","link": "https://www.health.harvard.edu/blog/3-simple-strategies-for-stress-relief-2021012521806",
+            "link_desc": "Simple strategies for stress relief."
+        }
+    },
+    "youtube": [
+        "https://www.youtube.com/embed/Nz9eAaXRzGg",
+        "https://www.youtube.com/embed/UQ1wDXtPxxI",
+        "https://www.youtube.com/embed/rmeGVhhbGrM",
+        "https://www.youtube.com/embed/8jPQjjsBbIc",
+        "https://www.youtube.com/embed/4ZQkYSpmOdU",
+        "https://www.youtube.com/embed/m3-O7gPsQK0"
+    ]
+}
